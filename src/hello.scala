@@ -6,3 +6,8 @@ def printII() = println("wtf")
 
 printH()
 printII()
+
+
+printII()
+
+printII()
